@@ -1,0 +1,11 @@
+h1 {
+    font: size 50px;
+color:rgb(18, 1, 63);
+background-color: white;
+}
+body {
+    background-color: rgb(187, 200, 233);
+}
+h1 {
+    background-color: rgb(187, 200, 233);
+}
