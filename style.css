@@ -31,21 +31,14 @@
     font-size: 90px;
     font-family: 'Gothic A1', sans-serif;
 }
-.phone{
-    display: block;
-    height:680px;
-    width: 360px;
-    background-color: grey;
-    border-radius: 40px ;
-    position: absolute;
-    right: 100px;
-    bottom: -5500px;
-    
-}
-#speaker{  
-    background-color: white;
-}
+
 #남색{
+    margin-top: 500px;
     background-color: rgb(33, 49, 79);
     height: 740px;
+}
+#phone{
+    position: relative;
+    right:-900px;
+    top: -100px;
 }
